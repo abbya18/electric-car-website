@@ -1,2 +1,2 @@
 # EV Car Website
-A website containing a databse of seller listings for electricle vehicles.
+A website containing a database of seller listings for electric vehicles.
